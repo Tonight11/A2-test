@@ -1,0 +1,24 @@
+{
+  "name": "av-test",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vueuse/core": "^9.13.0",
+    "@vueuse/integrations": "^9.13.0",
+    "universal-cookie": "^4.0.4",
+    "vue": "^3.2.47",
+    "vue-router": "4",
+    "vue-select": "4.0.0-beta.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.1.0",
+    "sass": "^1.62.0",
+    "vite": "^4.2.0"
+  }
+}
